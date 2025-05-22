@@ -41,19 +41,19 @@ To test how ChatGPT responds to naïve prompts (broad or unstructured) versus ba
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/340e33c8-48c9-47c0-aa1f-b59c51762313)
 
-### Analysis:
+## Analysis:
 • Quality: Basic prompts consistently generated more structured, engaging, and usable content.
 
 • Accuracy: Basic prompts directed the model to give precise answers. Naïve prompts often produced vague or overly broad responses.
 
 • Depth: In all scenarios except very simple or creative ones, basic prompts led to deeper, more thoughtful responses.
 
-### Summary of Findings:
+## Summary of Findings:
 • Prompt Clarity Greatly Impacts Output: Clear, structured prompts help ChatGPT deliver better, more relevant results.
 
 • Naïve Prompts Have Limited Use: They may work in very open-ended, creative scenarios but often lack depth.
 
-### Best Practices:
+## Best Practices:
 
 • Define task clearly.
 
